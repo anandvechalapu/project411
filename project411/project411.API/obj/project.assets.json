@@ -6051,37 +6051,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\909\\202305162337\\project411\\project411.API\\project411.API.csproj",
+      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\921\\202305164605\\project411\\project411.API\\project411.API.csproj",
       "projectName": "project411.API",
-      "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\909\\202305162337\\project411\\project411.API\\project411.API.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\909\\202305162337\\project411\\project411.API\\obj\\",
+      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\921\\202305164605\\project411\\project411.API\\project411.API.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\921\\202305164605\\project411\\project411.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\909\\202305162337\\project411\\project411.DTO\\project411.DTO.csproj": {
-              "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\909\\202305162337\\project411\\project411.DTO\\project411.DTO.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\921\\202305164605\\project411\\project411.DTO\\project411.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\921\\202305164605\\project411\\project411.DTO\\project411.DTO.csproj"
             },
-            "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\909\\202305162337\\project411\\project411.Service\\project411.Service.csproj": {
-              "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\909\\202305162337\\project411\\project411.Service\\project411.Service.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\921\\202305164605\\project411\\project411.Service\\project411.Service.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\921\\202305164605\\project411\\project411.Service\\project411.Service.csproj"
             }
           }
         }
@@ -6128,7 +6126,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },
